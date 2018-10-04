@@ -1,2 +1,2 @@
 # pythonlrn
-all about pyhton
+all about python
